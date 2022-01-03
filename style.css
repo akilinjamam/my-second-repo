@@ -9,3 +9,9 @@ h2{
 h3{
     border: purple;
 }
+img{
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin-bottom: 20px;
+}
